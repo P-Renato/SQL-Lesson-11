@@ -44,6 +44,7 @@
 - ((GitHub actually has layers of security against this, it's just an example))
 
 ![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=black)
+![Postgres](https://img.shields.io/badge/Postgres-007acd?logo=postgres&logoColor=blue)
 
 - The two basic defenses against XSS are
     - Validate inputs (Never trust user input)
