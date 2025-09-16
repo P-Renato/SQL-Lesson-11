@@ -42,6 +42,7 @@
 - Also, someone could do API requests on your behalf, like change your password
 
 - ((GitHub actually has layers of security against this, it's just an example))
+![GiHub](https://img.shields.io/badgeGitHub-fff?logo=github?logoColor=black)
 
 - The two basic defenses against XSS are
     - Validate inputs (Never trust user input)
